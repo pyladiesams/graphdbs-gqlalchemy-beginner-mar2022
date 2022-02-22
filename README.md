@@ -1,10 +1,10 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
+# An Introduction to Graph Databases with GQLAlchemy and Python
+### Level: Beginner 
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+During the workshop, you'll learn what graph databases are and how to manage them using GQLAlchemy, an object graph mapper (OGM). You'll learn to query the database with GQLAlchemy and perform basic graph traversals and algorithms in Python.
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
