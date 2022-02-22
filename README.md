@@ -15,7 +15,7 @@ Do not forget to indicate Python version and any other tools
 * Start { TOOL } and navigate to the workshop folder
 
 ## Video record
-Re-watch YouTube stream [here](link)
+Re-watch YouTube stream [here](https://youtu.be/Ay3C-vnCjCk)
 
 ## Credits
 This workshop was set up by @pyladiesams and {your github handler}
